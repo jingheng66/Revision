@@ -1,0 +1,3 @@
+[submodule "RevSubmodule2"]
+	path = RevSubmodule2
+	url = https://github.com/jingheng66/RevisionLab2
